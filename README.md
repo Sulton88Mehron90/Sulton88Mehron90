@@ -6,7 +6,7 @@
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
 <p align="center">
-  I am on the journey 🌱 of becoming a Front-end Developer at the intersection of design and functionality, committed to making the web both beautiful and intuitive. I know I am repeating myself.
+
   <div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🌱</span>
@@ -113,6 +113,7 @@
 
 <p align="center">
   Hello 👋🏼 ! I'm Parvin, pronounced 'Par-veen'.
+    I am on the journey 🌱 of becoming a Front-end Developer at the intersection of design and functionality, committed to making the web both beautiful and intuitive. I know I am repeating myself.
   <br>
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
