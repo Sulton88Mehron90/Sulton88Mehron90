@@ -39,7 +39,13 @@
      <a href="https://github.com/Sulton88Mehron90/self-care-center" target="_blank" rel="noreferrer">Dive in here</a>.<br>
   3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
      <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
+  4. <strong>FlashCards Starter Kit</strong>: An engaging tool to help learners reinforce knowledge with digital flashcards. 
+     <a href="https://github.com/Sulton88Mehron90/flashCards-starter-kit" target="_blank" rel="noreferrer">Discover more</a>.<br>
+  5. <strong>2Win!</strong>: A visually appealing static composition emphasizing design aesthetics. 
+     <a href="https://github.com/Sulton88Mehron90/static-comp" target="_blank" rel="noreferrer">View the design</a>.<br>
   <br>
+</p>
+
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
   1. <strong>FitLit - FitChicks</strong> with <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">@judy0ye</a>: 
      Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">View Project</a>.<br>
@@ -63,10 +69,6 @@
   Stay tuned for updates and exciting showcases of my work!
 </p>
 
-
-
-
-
 <h3 align="center">Let's Connect! 🌐</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
@@ -75,7 +77,7 @@
 <a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Parvin's Twitter">
 </a>
-<a href="https:[//instagram.com/your_username](https://www.instagram.com/sulimesho/)" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/sulimesho/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Parvin's Instagram">
 </a>
 
