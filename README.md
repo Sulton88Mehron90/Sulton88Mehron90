@@ -1,9 +1,9 @@
 <h3 align="center"> Journey through Parvin's Digital World 🌐</h3>
-<h3 align="center">Meet Parvin</h3>
+<h3 align="center">Meet Parvin</h3> 
 <p align="center">
-  Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'. I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.
-  <br>
-  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
+  Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'.  <br> <br> I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.
+  <br> <br>
+<img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
 <p align="center">
 
