@@ -1,21 +1,13 @@
-<h3 align="center">Welcome to My Digital Adventure 🌐 </h3>  
-
+<h3 align="center"> Journey through Parvin's Digital World 🌐</h3>
+<h3 align="center">Meet Parvin</h3>
 <p align="center">
-  If you've landed here and decided to delve deeper, you're on a voyage through my digital realm. 🚁 <br>
-  Gratitude for navigating my creations!
-</p>
-
-<h3 align="center">About Me </h3>
-
-<p align="center">
-  Hello 👋🏼 ! I'm Parvin, pronounced 'Par-veen'.
+  Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'. I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.
   <br>
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
 <p align="center">
-Embarking on a transformative journey, aspiring to become a Front-end Developer — where art meets algorithms.<br> Committed to sculpting a web space that's visually captivating and functionally seamless.
-<div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
-
+  I am on the journey 🌱 of becoming a Front-end Developer at the intersection of design and functionality, committed to making the web both beautiful and intuitive. I know I am repeating myself.
+  <div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🌱</span>
     <i style="color: #0077b6;"><b>Currently Enrolled at:</b></i> 
@@ -39,9 +31,8 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
   </div>
 </div>
 
-<h3 align="center">🔧 Projects & Collaborations 🔧</h3>
 <p align="center">
-  (｡◕‿◕｡)➜ <i>Individual Feats:</i><br>
+  <p align="center"><i> (｡◕‿◕｡)➜ Personal Creations:</i></p>
   1. <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
      <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.<br>
   2. <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. 
@@ -49,7 +40,7 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
   3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
      <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
   <br>
-   🤝🏼 <i>School Collaborations:</i><br>
+<p align="center"><i>🤝 Collaborative Ventures:</i></p>
   1. <strong>FitLit - FitChicks</strong> with <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">@judy0ye</a>: 
      Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">View Project</a>.<br>
   2. <strong>What's Cookin'?</strong> with <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">@JamieCaudill</a>: 
@@ -62,14 +53,23 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
      Glimpse of the undertaking. <a href="https://github.com/tdmburr/hang-in-there" target="_blank" rel="noreferrer">Explore further</a>.<br>
 </p>
 
-
 <p align="center">
-  📬 <i>Connect & Converse:</i><br>
+  <h3 align="center">Portfolio Showcase</h3>
+<p align="center">
+  My portfolio is currently under development! 🚧
+  <br>
+  While I'm in the process of crafting it, please feel free to explore the projects and collaborations listed above.
+  <br>
+  Stay tuned for updates and exciting showcases of my work!
+</p>
+
+<h3 align="center">Let's Connect! 🌐</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">LinkedIn</a> | 
   <a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">Twitter</a> | 
   <a href="https://instagram.com/your_username" target="_blank" rel="noreferrer">Instagram</a> | 
-  📄 <a href="https://yourwebsite.com/resume.pdf" target="_blank" rel="noreferrer">Resume</a> |
-  📧 nanajon66@gmail.com
+  📄 <a href="https://yourwebsite.com/resume.pdf" target="_blank" rel="noreferrer">View My Resume</a> |
+  💌 nanajon66@gmail.com
 </p>
 
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
@@ -86,12 +86,31 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
 </p>
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" />
+
+<!--
+# Sulton88Mehron90.github.io
+
+<h3 align="center">Welcome to My Digital Adventure 🌐 </h3> 
+<h3 align="center">About Me </h3>
+
+<p align="center">
+  Hello 👋🏼 ! I'm Parvin, pronounced 'Par-veen'.
+  <br>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
+</p>
+Embarking on a transformative journey, aspiring to become a Front-end Developer — where art meets algorithms.<br> Committed to sculpting a web space that's visually captivating and functionally seamless.
+
+<p align="center">
+  If you've landed here and decided to delve deeper, you're on a voyage through my digital realm. 🚁 <br>
+  Gratitude for navigating my creations!
+</p>
+  (｡◕‿◕｡)➜ <i>Individual Feats:</i><br>
+<h3 align="center">🔧 Projects & Collaborations 🔧</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact" alt="Sulton88Mehron90" />
 </p>
 
 
-<!--
-# Sulton88Mehron90.github.io
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
