@@ -106,7 +106,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" />
 
-  <h4 align="center"> Spoken Languages<br>Салом! 🇹🇯 </h4>
+  <h4 align="center"> Spoken Languages<br>
+</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/English-%230000FF.svg?&style=for-the-badge&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tojiki-%23FF0000.svg?&style=for-the-badge&logo=&logoColor=white"/>
@@ -161,6 +162,7 @@ Here are some ideas to get you started:
 🔧⚙️🚀
 📚 🏫🛜📝📚
 👷🏼‍♀️⚙️📈
+📿 🧿 Hello! 🇺🇸 Салом! 🇹🇯 سلام 🇮🇷 Здравствуйте 🇷🇺
 🌐
 🌏🌐🌌
 📡💻🌐
