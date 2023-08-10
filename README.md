@@ -20,7 +20,7 @@
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📘</span>
+    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📕</span>
     <i style="color: #0077b6;"><b>Diving Into:</b></i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, Chart.js and harnessing Test-Driven Development (TDD) techniques.
   </div>
   
@@ -144,10 +144,12 @@ Here are some ideas to get you started:
   💌 nanajon66@gmail.com
 - 💬 **Ask me about:** [🚧 Under Construction 🚧]
 🔧⚙️🚀
+📚 🏫🛜📝📚
 👷🏼‍♀️⚙️📈
 🌐
 🌏🌐🌌
 📡💻🌐
+I love math! ❤️🏫📚📐📏  📚📙📖
 📧
 (｡◕‿◕｡)➜ ( ͡👁️ ͜ʖ ͡👁️)✌ (･_･”)/＼(･_･”)
 Fight fight fight! 🤜✊🤛👊 🤝 🤛🏼 👋 🤝🏼
