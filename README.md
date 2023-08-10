@@ -8,7 +8,8 @@
 <h3 align="center">About Me </h3>
 
 <p align="center">
-  <b>Hello 👋! I'm Parvin.</b><br>
+  Hello 👋! I'm Parvin, pronounced 'Par-veen' (not Marvin).
+  <br>
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
 <p align="center">
