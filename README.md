@@ -25,7 +25,7 @@
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🔭</span>
+    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📊</span>
     <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
     <a href="https://sulton88mehron90.github.io/travel-tracker/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Travel Tracker</a>
   </div>
@@ -102,8 +102,17 @@
   </a>
 </p>
 
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" />
+
+  <h4 align="center"> Spoken Languages<br>Салом! 🇹🇯 </h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/English-%230000FF.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tojiki-%23FF0000.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pomiri-%2300FF00.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Farsi-%2340E0D0.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Russian-%23DE8F05.svg?&style=for-the-badge&logo=&logoColor=white"/>
 
 <!--
 # Sulton88Mehron90.github.io
@@ -129,6 +138,12 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
 </p>
 
 
+  <span style="font-size: 20px; padding: 5px 10px; background-color: #e0e0e0; border-radius: 4px;">English</span>
+  <span style="font-size: 20px; padding: 5px 10px; background-color: #e0e0e0; border-radius: 4px;">Pomiri</span>
+  <span style="font-size: 20px; padding: 5px 10px; background-color: #e0e0e0; border-radius: 4px;">Tojiki</span>
+  <span style="font-size: 20px; padding: 5px 10px; background-color: #e0e0e0; border-radius: 4px;">Farsi</span>
+  <span style="font-size: 20px; padding: 5px 10px; background-color: #e0e0e0; border-radius: 4px;">Russian</span>
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -149,9 +164,10 @@ Here are some ideas to get you started:
 🌐
 🌏🌐🌌
 📡💻🌐
-I love math! ❤️🏫📚📐📏  📚📙📖
+I love math! ❤️🏫📚📐📏  📚📙📖 🇺🇸 🔭 📈📊📉
 📧
 (｡◕‿◕｡)➜ ( ͡👁️ ͜ʖ ͡👁️)✌ (･_･”)/＼(･_･”)
 Fight fight fight! 🤜✊🤛👊 🤝 🤛🏼 👋 🤝🏼
+Салом!🇹🇯
 <img src= "https://media.giphy.com/media/jbjnnBBzgiZ7VIBP4G/giphy.gif" alt="gif" height=40% width=40%>
 -->
