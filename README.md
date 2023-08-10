@@ -1,4 +1,4 @@
-<h3 align="center">🏔️Welcome to My Digital Adventure 🌊 </h3>  
+<h3 align="center">Welcome to My Digital Adventure 🌐 </h3>  
 
 <p align="center">
   If you've landed here and decided to delve deeper, you're on a voyage through my digital realm. 🚁 <br>
@@ -26,7 +26,7 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    📘 <i style="color: #0077b6;"><b>Diving Into:</b></i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, and harnessing Test-Driven Development (TDD) techniques.
+    📘 <i style="color: #0077b6;"><b>Diving Into:</b></i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, Chart.js and harnessing Test-Driven Development (TDD) techniques.
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
@@ -40,17 +40,24 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
 
 <p align="center">
   💡 <i>Individual Feats:</i><br>
-  1. **[Project Name]**: A brief portrayal. [Link to delve deeper].<br>
-  2. **[Project Name]**: A snapshot of the project. [Take a closer look].<br>
+  1. <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.<br>
+  2. <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. <a href="https://github.com/Sulton88Mehron90/self-care-center" target="_blank" rel="noreferrer">Dive in here</a>.<br>
+  3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
   <br>
   🤝 <i>School Collaborations:</i><br>
-  1. **[Project Name]** with @[Collaborator's GitHub]: Project essence. [Link].<br>
-  2. **[Project Name]** with @[Collaborator's GitHub]: Glimpse of the undertaking. [Explore further].
+  1. <strong>Project Name</strong> with <a href="COLLABORATOR_GITHUB_URL" target="_blank" rel="noreferrer">@Collaborator's GitHub</a>: Project essence. <a href="PROJECT_LINK" target="_blank" rel="noreferrer">Link</a>.<br>
+  2. <strong>Project Name</strong> with <a href="COLLABORATOR_GITHUB_URL_2" target="_blank" rel="noreferrer">@Collaborator's GitHub</a>: Glimpse of the undertaking. <a href="PROJECT_LINK_2" target="_blank" rel="noreferrer">Explore further</a>.
 </p>
+
+
 
 <p align="center">
   📬 <i>Connect & Converse:</i><br>
-  <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">LinkedIn</a> | 📫 nanajon66@gmail.com
+  <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">LinkedIn</a> | 
+  <a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">Twitter</a> | 
+  <a href="https://instagram.com/your_username" target="_blank" rel="noreferrer">Instagram</a> | 
+  📄 <a href="https://yourwebsite.com/resume.pdf" target="_blank" rel="noreferrer">Resume</a> |
+  📫 nanajon66@gmail.com
 </p>
 
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
@@ -65,6 +72,7 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=judy0ye&show_icons=true&locale=en&layout=compact" alt="judy0ye" />
@@ -86,4 +94,7 @@ Here are some ideas to get you started:
 - 👀 Check out my latest project:
 - 📫 How to reach me: **nanajon66@gmail.com**
 - 💬 **Ask me about:** [🚧 Under Construction 🚧]
+🔧⚙️🚀
+👷🏼‍♀️⚙️📈
+🌐
 -->
