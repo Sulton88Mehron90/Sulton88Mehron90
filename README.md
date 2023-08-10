@@ -8,7 +8,7 @@
 <h3 align="center">About Me </h3>
 
 <p align="center">
-  Hello 👋 ! I'm Parvin, pronounced 'Par-veen'.
+  Hello 👋🏼 ! I'm Parvin, pronounced 'Par-veen'.
   <br>
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
@@ -17,38 +17,50 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
 <div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
 
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    🌱 <i style="color: #0077b6;"><b>Currently Enrolled at:</b></i> 
+    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🌱</span>
+    <i style="color: #0077b6;"><b>Currently Enrolled at:</b></i> 
     <a href="https://turing.io/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Turing School of Software and Design</a>
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    🔍 <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, and CSS
+    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🔍</span>
+    <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, and CSS
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    📘 <i style="color: #0077b6;"><b>Diving Into:</b></i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, Chart.js and harnessing Test-Driven Development (TDD) techniques.
+    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📘</span>
+    <i style="color: #0077b6;"><b>Diving Into:</b></i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, Chart.js and harnessing Test-Driven Development (TDD) techniques.
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
-    🔭 <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
+    <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🔭</span>
+    <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
     <a href="https://sulton88mehron90.github.io/travel-tracker/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Travel Tracker</a>
   </div>
 </div>
 
-
 <h3 align="center">🔧 Projects & Collaborations 🔧</h3>
-
 <p align="center">
-  💡 <i>Individual Feats:</i><br>
-  1. <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.<br>
-  2. <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. <a href="https://github.com/Sulton88Mehron90/self-care-center" target="_blank" rel="noreferrer">Dive in here</a>.<br>
-  3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
+  (｡◕‿◕｡)➜ <i>Individual Feats:</i><br>
+  1. <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
+     <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.<br>
+  2. <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. 
+     <a href="https://github.com/Sulton88Mehron90/self-care-center" target="_blank" rel="noreferrer">Dive in here</a>.<br>
+  3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
+     <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
   <br>
-  🤝 <i>School Collaborations:</i><br>
-  1. <strong>Project Name</strong> with <a href="COLLABORATOR_GITHUB_URL" target="_blank" rel="noreferrer">@Collaborator's GitHub</a>: Project essence. <a href="PROJECT_LINK" target="_blank" rel="noreferrer">Link</a>.<br>
-  2. <strong>Project Name</strong> with <a href="COLLABORATOR_GITHUB_URL_2" target="_blank" rel="noreferrer">@Collaborator's GitHub</a>: Glimpse of the undertaking. <a href="PROJECT_LINK_2" target="_blank" rel="noreferrer">Explore further</a>.
+   🤝🏼 <i>School Collaborations:</i><br>
+  1. <strong>FitLit - FitChicks</strong> with <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">@judy0ye</a>: 
+     Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">View Project</a>.<br>
+  2. <strong>What's Cookin'?</strong> with <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">@JamieCaudill</a>: 
+     Culinary inspirations and recipes. <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">Have a look</a>.<br>
+  3. <strong>ColoRandom</strong> with <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">@andreasorensen</a>: 
+     Color generating project. <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">Dive in</a>.<br>
+  4. <strong>RomCom</strong> with <a href="https://github.com/rachelsoae/RomCom-Covers" target="_blank" rel="noreferrer">@rachelsoae</a>: 
+     Project essence. <a href="https://github.com/rachelsoae/RomCom-Covers" target="_blank" rel="noreferrer">Link</a>.<br>
+  5. <strong>Hang in There</strong> with <a href="https://github.com/tdmburr/hang-in-there" target="_blank" rel="noreferrer">@tdmburr</a>: 
+     Glimpse of the undertaking. <a href="https://github.com/tdmburr/hang-in-there" target="_blank" rel="noreferrer">Explore further</a>.<br>
 </p>
-
 
 
 <p align="center">
@@ -57,7 +69,7 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
   <a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">Twitter</a> | 
   <a href="https://instagram.com/your_username" target="_blank" rel="noreferrer">Instagram</a> | 
   📄 <a href="https://yourwebsite.com/resume.pdf" target="_blank" rel="noreferrer">Resume</a> |
-  📫 nanajon66@gmail.com
+  📧 nanajon66@gmail.com
 </p>
 
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
@@ -73,9 +85,8 @@ Embarking on a transformative journey, aspiring to become a Front-end Developer 
   </a>
 </p>
 
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=judy0ye&show_icons=true&locale=en&layout=compact" alt="judy0ye" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact" alt="Sulton88Mehron90" />
 </p>
 
 
@@ -97,4 +108,10 @@ Here are some ideas to get you started:
 🔧⚙️🚀
 👷🏼‍♀️⚙️📈
 🌐
+🌏🌐🌌
+📡💻🌐
+📧
+(｡◕‿◕｡)➜ ( ͡👁️ ͜ʖ ͡👁️)✌ (･_･”)/＼(･_･”)
+Fight fight fight! 🤜✊🤛👊 🤝 🤛🏼 👋 🤝🏼
+<img src= "https://media.giphy.com/media/jbjnnBBzgiZ7VIBP4G/giphy.gif" alt="gif" height=40% width=40%>
 -->
