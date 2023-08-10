@@ -48,7 +48,7 @@
 
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
   1. <strong>FitLit - FitChicks</strong> with <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">@judy0ye</a>: 
-     Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">View Project</a>.<br>
+     Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-ps" target="_blank" rel="noreferrer">View Project</a>.<br>
   2. <strong>What's Cookin'?</strong> with <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">@JamieCaudill</a>: 
      Culinary inspirations and recipes. <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">Have a look</a>.<br>
   3. <strong>ColoRandom</strong> with <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">@andreasorensen</a>: 
