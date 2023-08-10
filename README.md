@@ -1,21 +1,38 @@
-<h3 align="center">🌍 Welcome to My Digital Adventure 🌍</h3>
+<h3 align="center">Welcome to My Digital Adventure </h3>
 
 <p align="center">
-  If you've landed here and decided to delve deeper, you're on a voyage through my digital realm. 🚀<br>
+  If you've landed here and decided to delve deeper, you're on a voyage through my digital realm. <br>
   Gratitude for navigating my creations!
 </p>
 
-<h3 align="center">🎨 About Me 🎨</h3>
+<h3 align="center">About Me </h3>
 
 <p align="center">
   <b>Hello 👋! I'm Parvin.</b><br>
-  Embarking on a transformative journey, aspiring to become a Front-end Developer — where art meets algorithms. Committed to sculpting a web space that's visually captivating and functionally seamless.<br>
-  <br>
-  🌱 <i>Currently Enrolled at:</i> <a href="https://turing.io/" target="_blank" rel="noreferrer"><b>Turing School of Software and Design</b></a><br>
-  🔍 <i>Zeroing in on:</i> Javascript, HTML, and CSS<br>
-  📘 <i>Diving Into:</i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, and harnessing Test-Driven Development (TDD) techniques.<br>
-  🔭 <i>Present Endeavor:</i> <a href="https://sulton88mehron90.github.io/travel-tracker/" target="_blank" rel="noreferrer"><b>Travel Tracker</b></a>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
+<p align="center">
+Embarking on a transformative journey, aspiring to become a Front-end Developer — where art meets algorithms.<br> Committed to sculpting a web space that's visually captivating and functionally seamless.
+<div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
+
+  <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 5px;">
+    🌱 <i style="color: #0077b6;"><b>Currently Enrolled at:</b></i> 
+    <a href="https://turing.io/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Turing School of Software and Design</a>
+  </div>
+  
+  <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 5px;">
+    🔍 <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, and CSS
+  </div>
+  
+  <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 5px;">
+    📘 <i style="color: #0077b6;"><b>Diving Into:</b></i> Advanced API interactions, Iterator techniques, User-focused login aesthetics, Applications of DayJS, and harnessing Test-Driven Development (TDD) techniques.
+  </div>
+  
+  <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 5px;">
+    🔭 <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
+    <a href="https://sulton88mehron90.github.io/travel-tracker/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Travel Tracker</a>
+  </div>
+</div>
 
 <h3 align="center">🔧 Projects & Collaborations 🔧</h3>
 
