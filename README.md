@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <p align="center"><i> (｡◕‿◕｡)➜ Personal Creations:</i></p>
+  <h4 align="center"><i> (｡◕‿◕｡)➜ Personal Creations:</i></h4>
   1. <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
      <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.<br>
   2. <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. 
@@ -40,7 +40,7 @@
   3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
      <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
   <br>
-<p align="center"><i>🤝 Collaborative Ventures:</i></p>
+<h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
   1. <strong>FitLit - FitChicks</strong> with <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">@judy0ye</a>: 
      Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">View Project</a>.<br>
   2. <strong>What's Cookin'?</strong> with <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">@JamieCaudill</a>: 
@@ -63,13 +63,28 @@
   Stay tuned for updates and exciting showcases of my work!
 </p>
 
+
+
+
+
 <h3 align="center">Let's Connect! 🌐</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">LinkedIn</a> | 
-  <a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">Twitter</a> | 
-  <a href="https://instagram.com/your_username" target="_blank" rel="noreferrer">Instagram</a> | 
-  📄 <a href="https://yourwebsite.com/resume.pdf" target="_blank" rel="noreferrer">View My Resume</a> |
-  💌 nanajon66@gmail.com
+<a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="Parvin's LinkedIn">
+</a>
+<a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Parvin's Twitter">
+</a>
+<a href="https:[//instagram.com/your_username](https://www.instagram.com/sulimesho/)" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Parvin's Instagram">
+</a>
+
+ <a href="https://github.com/Sulton88Mehron90/travel-tracker/blob/main/src/images/ParvinASattorova-Resume-2023.docx" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/📄_Resume-Green?style=flat" alt="Parvin's Resume">
+</a>
+<a href="mailto:nanajon66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact Me-green?style=flat&logo=microsoft-outlook" alt="Email Badge">
+</a>
 </p>
 
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
@@ -122,7 +137,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👀 Check out my latest project:
-- 📫 How to reach me: **nanajon66@gmail.com**
+- 📫 How to reach me: 
+  💌 nanajon66@gmail.com
 - 💬 **Ask me about:** [🚧 Under Construction 🚧]
 🔧⚙️🚀
 👷🏼‍♀️⚙️📈
