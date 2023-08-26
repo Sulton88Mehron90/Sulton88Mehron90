@@ -3,7 +3,7 @@
 <p align="center">
   Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'.  <br> <br> I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.
   <br> <br>
-<img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/src/parvin_round_transparent.png" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
+<img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
 <p align="center">
 
