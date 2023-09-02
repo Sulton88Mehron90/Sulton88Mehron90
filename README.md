@@ -104,7 +104,7 @@
 </td><td valign="top" width="33%">
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -115,10 +115,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-
+-->
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" />
+
 
   <h4 align="center"> Spoken Languages<br>
 </h4>
