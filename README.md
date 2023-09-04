@@ -27,37 +27,67 @@
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📊</span>
     <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
-    <a href="https://sulton88mehron90.github.io/travel-tracker/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Travel Tracker</a>
+    <a href="https://github.com/Sulton88Mehron90/rancid-tomatillos-denzel-parvin" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Rancid Tomatillos</a>
   </div>
 </div>
 
-<p align="center">
-  <h4 align="center"><i> (｡◕‿◕｡)➜ Personal Creations:</i></h4>
-  1. <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
-     <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.<br>
-  2. <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. 
-     <a href="https://github.com/Sulton88Mehron90/self-care-center" target="_blank" rel="noreferrer">Dive in here</a>.<br>
-  3. <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
-     <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.<br>
-  4. <strong>FlashCards Starter Kit</strong>: An engaging tool to help learners reinforce knowledge with digital flashcards. 
-     <a href="https://github.com/Sulton88Mehron90/flashCards-starter-kit" target="_blank" rel="noreferrer">Discover more</a>.<br>
-  5. <strong>2Win!</strong>: A visually appealing static composition emphasizing design aesthetics. 
-     <a href="https://github.com/Sulton88Mehron90/static-comp" target="_blank" rel="noreferrer">View the design</a>.<br>
-  <br>
-</p>
+<h4 align="center"><i>(｡◕‿◕｡)➜ Personal Creations:</i></h4>
+<ul align="center">
+  <li>
+    <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
+    <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.
+  </li>
+  <li>
+    <strong>Self-Care Center</strong>: A snapshot of the self-care recommendation app. 
+    <a href="https://github.com/Sulton88Mehron90/self-care-center" target="_blank" rel="noreferrer">Dive in here</a>.
+  </li>
+  <li>
+    <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
+    <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.
+  </li>
+  <li>
+    <strong>FlashCards Starter Kit</strong>: An engaging tool to help learners reinforce knowledge with digital flashcards. 
+    <a href="https://github.com/Sulton88Mehron90/flashCards-starter-kit" target="_blank" rel="noreferrer">Discover more</a>.
+  </li>
+  <li>
+    <strong>2Win!</strong>: A visually appealing static composition emphasizing design aesthetics. 
+    <a href="https://github.com/Sulton88Mehron90/static-comp" target="_blank" rel="noreferrer">View the design</a>.
+  </li>
+  <li>
+    <strong>Idea-Box-one-React</strong>: Capture your ideas on virtual cards. 
+    <a href="https://github.com/Sulton88Mehron90/idea-box-one-react" target="_blank" rel="noreferrer">Check it out</a>.
+  </li>
+</ul>
 
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
-  1. <strong>FitLit - FitChicks</strong> with <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-p" target="_blank" rel="noreferrer">@judy0ye</a>: 
-     Fitness tracking application. <a href="https://github.com/judy0ye/fitlit-group-project-jy-jm-ps" target="_blank" rel="noreferrer">View Project</a>.<br>
-  2. <strong>What's Cookin'?</strong> with <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">@JamieCaudill</a>: 
-     Culinary inspirations and recipes. <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">Have a look</a>.<br>
-  3. <strong>ColoRandom</strong> with <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">@andreasorensen</a>: 
-     Color generating project. <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">Dive in</a>.<br>
-  4. <strong>RomCom</strong> with <a href="https://github.com/rachelsoae/RomCom-Covers" target="_blank" rel="noreferrer">@rachelsoae</a>: 
-     Project essence. <a href="https://github.com/rachelsoae/RomCom-Covers" target="_blank" rel="noreferrer">Link</a>.<br>
-  5. <strong>Hang in There</strong> with <a href="https://github.com/tdmburr/hang-in-there" target="_blank" rel="noreferrer">@tdmburr</a>: 
-     Glimpse of the undertaking. <a href="https://github.com/tdmburr/hang-in-there" target="_blank" rel="noreferrer">Explore further</a>.<br>
-</p>
+<ul>
+    <li>
+        <strong>Rancid Tomatillos</strong> with 
+        <a href="https://github.com/Sulton88Mehron90/rancid-tomatillos-denzel-parvin" target="_blank" rel="noreferrer">@Denzel-Turambi</a>: 
+        Go-to platform for all things cinema! 
+        <a href="https://github.com/Sulton88Mehron90/rancid-tomatillos-denzel-parvin" target="_blank" rel="noreferrer">Fancy to take a look at the Project?</a>.
+    </li>
+    <li>
+        <strong>FitLit - FitChicks</strong> with 
+        <a href="https://github.com/judy0ye" target="_blank" rel="noreferrer">@judy0ye</a> and 
+        <a href="https://github.com/jmcsorle" target="_blank" rel="noreferrer">@jmcsorle</a>: 
+        Fitness tracking application. 
+        <a href="https://github.com/Sulton88Mehron90/fitlit-group-project-jy-jm-ps" target="_blank" rel="noreferrer">View Project</a>.
+    </li>
+    <li>
+        <strong>What's Cookin'?</strong> with 
+        <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">@Marisa5280, @JamieCaudill, and @BenHolden010</a>: 
+        Culinary inspirations and recipes. 
+        <a href="https://github.com/JamieCaudill/whats-cookin-group-project" target="_blank" rel="noreferrer">Have a look</a>.
+    </li>
+    <li>
+        <strong>ColoRandom</strong> with 
+        <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">@andreasorensen</a> and 
+        <a href="https://github.com/Nathelene" target="_blank" rel="noreferrer">@Nathelene</a>: 
+        Color generating project. 
+        <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">Dive in</a>.
+    </li>
+</ul>
 
 <p align="center">
   <h3 align="center">Portfolio Showcase</h3>
