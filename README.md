@@ -1,5 +1,5 @@
 <h4 align="center"> Journey through Parvin's Digital World 🌐</h4>
-<h5 align="center">Meet Parvin</h5> 
+<h4 align="center">Meet Parvin</h4> 
 <div align="center">
   <p>Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'.</p>
   <p>I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.</p>
@@ -86,11 +86,10 @@
         <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">Dive in</a>.
     </li>
 </ul>
-<h5 align="center">Portfolio Showcase</h5>
+<h4 align="center">Portfolio Showcase</h4>
 <div align="center">
   <p>My portfolio is currently under development! 🚧</p>
   <p>While I'm in the process of crafting it, please feel free to explore the projects and collaborations listed above.</p>
-  <p>Stay tuned for updates and exciting showcases of my work!</p>
 </div>
 
 <h3 align="center">Let's Connect! 🌐</h3>
