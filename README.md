@@ -1,12 +1,10 @@
-<h3 align="center"> Journey through Parvin's Digital World 🌐</h3>
-<h3 align="center">Meet Parvin</h3> 
-<p align="center">
-  Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'.  <br> <br> I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.
-  <br> <br>
-<img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
-</p>
-<p align="center">
-
+<h4 align="center"> Journey through Parvin's Digital World 🌐</h4>
+<h5 align="center">Meet Parvin</h5> 
+<div align="center">
+  <p>Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'.</p>
+  <p>I'm on a mission to intertwine art with algorithms, crafting captivating and functional web realms.</p>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" alt="Parvin's Image" width="120" style="margin: 20px; border-radius: 50%;">
+</div>
   <div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🌱</span>
@@ -32,7 +30,7 @@
 </div>
 
 <h4 align="center"><i>(｡◕‿◕｡)➜ Personal Creations:</i></h4>
-<ul align="center">
+<ul>
   <li>
     <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
     <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.
@@ -88,19 +86,15 @@
         <a href="https://github.com/andreasorensen/coloRandom-Team-Project" target="_blank" rel="noreferrer">Dive in</a>.
     </li>
 </ul>
-
-<p align="center">
-  <h3 align="center">Portfolio Showcase</h3>
-<p align="center">
-  My portfolio is currently under development! 🚧
-  <br>
-  While I'm in the process of crafting it, please feel free to explore the projects and collaborations listed above.
-  <br>
-  Stay tuned for updates and exciting showcases of my work!
-</p>
+<h5 align="center">Portfolio Showcase</h5>
+<div align="center">
+  <p>My portfolio is currently under development! 🚧</p>
+  <p>While I'm in the process of crafting it, please feel free to explore the projects and collaborations listed above.</p>
+  <p>Stay tuned for updates and exciting showcases of my work!</p>
+</div>
 
 <h3 align="center">Let's Connect! 🌐</h3>
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="Parvin's LinkedIn">
 </a>
@@ -117,10 +111,9 @@
 <a href="mailto:nanajon66@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact Me-green?style=flat&logo=microsoft-outlook" alt="Email Badge">
 </a>
-</p>
+</div>
 
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
-
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -132,7 +125,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 <!-- <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
