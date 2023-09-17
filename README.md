@@ -59,12 +59,13 @@
 
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
 <ul>
-    <li>
-        <strong>Parks Passport</strong> with 
-        <a href="https://github.com/Sulton88Mehron90/https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer">@jenziel and @Marisa5280</a>: 
-        Parks Passport application. 
-        <a href="https://github.com/Sulton88Mehron90/https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer">View Project</a>.
-    </li>
+<li>
+  <strong>Parks Passport</strong> with 
+  <a href="https://github.com/jenziel" target="_blank" rel="noreferrer">@jenziel</a> and 
+  <a href="https://github.com/Marisa5280" target="_blank" rel="noreferrer">@Marisa5280</a>: 
+  Parks Passport application. 
+  <a href="https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer">Explore Code</a>.
+</li>
     <li>
         <strong>Rancid Tomatillos</strong> with 
         <a href="https://github.com/Sulton88Mehron90/rancid-tomatillos-denzel-parvin" target="_blank" rel="noreferrer">@Denzel-Turambi</a>: 
