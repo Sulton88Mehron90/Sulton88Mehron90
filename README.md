@@ -25,7 +25,7 @@
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📊</span>
     <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
-    <a href="https://github.com/Sulton88Mehron90/rancid-tomatillos-denzel-parvin" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Rancid Tomatillos</a>
+    <a href="https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Parks Passport</a>
   </div>
 </div>
 
@@ -58,15 +58,13 @@
 </ul>
 
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
- <li>
+<ul>
+    <li>
         <strong>Parks Passport</strong> with 
-  
-        <a href=" https://github.com/Marisa5280" target="_blank" rel="noreferrer">@Marisa5280</a> and 
-        <a href="https://github.com/jenziel" target="_blank" rel="noreferrer">@jenziel</a>: 
-        Fitness tracking application. 
+        <a href="https://github.com/Sulton88Mehron90/https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer">@jenziel and @Marisa5280</a>: 
+        Parks Passport application. 
         <a href="https://github.com/Sulton88Mehron90/https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer">View Project</a>.
     </li>
-<ul>
     <li>
         <strong>Rancid Tomatillos</strong> with 
         <a href="https://github.com/Sulton88Mehron90/rancid-tomatillos-denzel-parvin" target="_blank" rel="noreferrer">@Denzel-Turambi</a>: 
