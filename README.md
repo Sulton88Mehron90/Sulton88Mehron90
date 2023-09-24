@@ -149,8 +149,20 @@
 </p>
 -->
 </p>
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" /> -->
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" />
+  <table>
+    <tr>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulton88Mehron90&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Sulton88Mehron90" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sulton88Mehron90&show_icons=true&theme=blue-green" alt="Your GitHub stats" />
+    </tr>
+  </table>
+</p>
+
+
+
 
 
   <h4 align="center"> Spoken Languages<br>
