@@ -14,7 +14,7 @@
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🔍</span>
-    <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, and CSS
+    <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, CSS, React, React Router, Cypress, Type Script.
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
@@ -25,12 +25,16 @@
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📊</span>
     <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
-    <a href="https://github.com/Sulton88Mehron90/stretchTech" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Parks Passport</a>
+    <a href="https://github.com/Sulton88Mehron90/showcase-project" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Avicenna Method</a>
   </div>
 </div>
 
 <h4 align="center"><i>(｡◕‿◕｡)➜ Personal Creations:</i></h4>
 <ul>
+    <li>
+    <strong>Avicenna Method</strong>: Discover new facts in an engaging manner. 
+    <a href="https://github.com/Sulton88Mehron90/showcase-project" target="_blank" rel="noreferrer">Experience it</a>.
+  </li>
   <li>
     <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
     <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.
@@ -41,7 +45,7 @@
   </li>
   <li>
     <strong>Rock-Paper-Scissors</strong>: A glance at the classic game's digital version. 
-    <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Check it out</a>.
+    <a href="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors" target="_blank" rel="noreferrer">Have a peek</a>.
   </li>
   <li>
     <strong>FlashCards Starter Kit</strong>: An engaging tool to help learners reinforce knowledge with digital flashcards. 
@@ -216,4 +220,14 @@ Fight fight fight! 🤜✊🤛👊 🤝 🤛🏼 👋 🤝🏼
 🛠️ 🪓 🪛 🧱
 Салом!🇹🇯
 <img src= "https://media.giphy.com/media/jbjnnBBzgiZ7VIBP4G/giphy.gif" alt="gif" height=40% width=40%>
+Take a look.
+Give it a glance.
+See for yourself.
+Explore it.
+Dive in.
+Have a peek.
+Browse through.
+Discover more.
+Get a firsthand view.
+Experience it.
 -->
