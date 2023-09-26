@@ -59,6 +59,10 @@
     <strong>Idea-Box-one-React</strong>: Capture your ideas on virtual cards. 
     <a href="https://github.com/Sulton88Mehron90/idea-box-one-react" target="_blank" rel="noreferrer">Check it out</a>.
   </li>
+    <li>
+    <strong>url-shortener-ui</strong>: URL shortening service. 
+    <a href="https://github.com/Sulton88Mehron90/url-shortener-ui" target="_blank" rel="noreferrer">See for yourself</a>.
+  </li>
 </ul>
 
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
