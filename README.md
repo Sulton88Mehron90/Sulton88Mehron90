@@ -14,7 +14,7 @@
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🔍</span>
-    <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, CSS, React, React Router, Cypress, Type Script.
+    <i style="color: #0077b6;"><b>Zeroing in on:</b></i> Javascript, HTML, CSS, React, React Router, Cypress, Type Script, GraphQl
   </div>
   
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
@@ -25,7 +25,7 @@
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📊</span>
     <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
-    <a href="https://github.com/Sulton88Mehron90/showcase-project" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Avicenna Method</a>
+    <a href="https://github.com/Refugee-Aid-Capstone/refugee-aid-fe" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Refuge</a>
   </div>
 </div>
 
@@ -67,6 +67,18 @@
 
 <h4 align="center"><i>🤝 Collaborative Ventures:</i></h4>
 <ul>
+     <li>
+        <strong>Refuge</strong> with
+       Front End Team:
+        <a href="https://github.com/reneepinna" target="_blank" rel="noreferrer">@reneepinna</a> and
+       Back End Team:
+        <a href="https://github.com/ethanrossblack" target="_blank" rel="noreferrer">@ethanrossblack</a>,
+        <a href="https://github.com/algibson1" target="_blank" rel="noreferrer">@algibson1</a> and
+        <a href="https://github.com/DavisWeimer" target="_blank" rel="noreferrer">@DavisWeimer</a> <br>
+       <strong>Refuge - AidConnect/RefugeeAid</strong> emerges as a platform addressing the challenge of efficiently connecting aid workers and compassionate citizens with refugee camps or organizations. It ensures that assistance meets the refugees, asylees, and migrants' current and specific needs in an engaging, real-time feed.  
+        <a href="https://github.com/Refugee-Aid-Capstone/refugee-aid-fe" target="_blank" rel="noreferrer">View Project - FE repository</a> and 
+       <a href="https://github.com/Refugee-Aid-Capstone/refugee_aid_be" target="_blank" rel="noreferrer">View Project - BE repository</a>.
+    </li>
 <li>
   <strong>Parks Passport</strong> with 
   <a href="https://github.com/jenziel" target="_blank" rel="noreferrer">@jenziel</a> and 
@@ -129,17 +141,18 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Parvin's Instagram">
 </a>
 
-</div>
-
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXfntUBC8eXPGA7V8dQp74I5Xofeze3tnRua5hKQkd0ofyH0cy5mJm3_Y-zPhHO2ty9k&usqp=CAU" alt="Cypress" height="50" /></a>  
+<div>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXfntUBC8eXPGA7V8dQp74I5Xofeze3tnRua5hKQkd0ofyH0cy5mJm3_Y-zPhHO2ty9k&usqp=CAU" alt="Cypress" height="50" /></a>  
+  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="50" /></a>
+  <a href="https://www.apollographql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Refugee-Aid-Capstone/refugee-aid-fe/blob/main/src/images/apollo-client.png" alt="Apollo Client" height="50" /></a>
+  <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Refugee-Aid-Capstone/refugee-aid-fe/blob/main/src/images/ci-cd.png" alt="CI/CD" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -168,10 +181,6 @@
     </tr>
   </table>
 </p>
-
-
-
-
 
   <h4 align="center"> Spoken Languages<br>
 </h4>
