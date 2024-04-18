@@ -8,7 +8,7 @@
   <div style="font-family: Arial, sans-serif; padding: 10px; border: 2px solid #d1d1d1; border-radius: 8px; box-shadow: 2px 2px 12px #aaa;">
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">🌱</span>
-    <i style="color: #0077b6;"><b>Currently Enrolled at:</b></i> 
+    <i style="color: #0077b6;"><b>Recently Graduated from:</b></i> 
     <a href="https://turing.io/" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Turing School of Software and Design</a>
   </div>
   
