@@ -124,10 +124,10 @@
 <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="Parvin's LinkedIn">
 </a>
-  <a href="https://github.com/Sulton88Mehron90/showcase-project/blob/main/src/Images/ParvinASattorova-Resume-October4-2023.pdf" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Sulton88Mehron90/showcase-project/blob/main/src/Images/ParvinASattorova-Resume-November3-2023(1).pdf" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/📄_PDF_Resume-138808?style=flat" alt="Parvin's PDF Resume">
 </a>
-<a href="https://github.com/Sulton88Mehron90/showcase-project/blob/main/src/Images/ParvinASattorova-Resume-October4-2023.docx" target="_blank" rel="noreferrer">
+<a href="https://github.com/Sulton88Mehron90/showcase-project/blob/main/src/Images/ParvinASattorova-Resume-November3-2023.docx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/📄_DOCX_Resume-8E44AD?style=flat" alt="Parvin's DOCX Resume">
 </a>
 <a href="mailto:nanajon66@gmail.com">
