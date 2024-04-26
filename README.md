@@ -1,4 +1,4 @@
-<h4 align="center"> Journey through Parvin's Digital World 🌐</h4>
+ƒ<h4 align="center"> Journey through Parvin's Digital World 🌐</h4>
 <h4 align="center">Meet Parvin</h4> 
 <div align="center">
   <p>Hey there! 👋🏼 I'm Parvin, pronounced 'Par-veen'.</p>
@@ -134,7 +134,7 @@
     <img src="https://img.shields.io/badge/Email-Contact Me-green?style=flat&logo=microsoft-outlook" alt="Email Badge">
 </a>
 
-<a href="https://twitter.com/your_username" target="_blank" rel="noreferrer">
+<a href="[https://twitter.com/your_username](https://twitter.com/nanajon66/with_replies)" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Parvin's Twitter">
 </a>
 <a href="https://www.instagram.com/sulimesho/" target="_blank" rel="noreferrer">
