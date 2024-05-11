@@ -36,6 +36,18 @@
     <a href="https://github.com/Sulton88Mehron90/showcase-project" target="_blank" rel="noreferrer">Experience it</a>.
   </li>
   <li>
+    <strong>MOD4 Interview Prep Questions</strong>: Dynamic tool designed to assist Full Stack Developer job seekers.
+    <a href="https://github.com/Sulton88Mehron90/interview-prep-questions" target="_blank" rel="noreferrer">Experience the app in action</a>.
+  </li>
+    <li>
+    <strong>News Reader</strong>: Stay updated with the happenings around the world.
+    <a href="https://github.com/Sulton88Mehron90/news-reader" target="_blank" rel="noreferrer">Check it out!</a>.
+  </li>
+    <li>
+    <strong>Rubaiyat</strong>: Get inspired by the profound verses of Omar Khayyam.
+    <a href="https://github.com/Sulton88Mehron90/rubaiyat" target="_blank" rel="noreferrer">Immerse yourself in poetic beauty.</a>.
+  </li>
+  <li>
     <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
     <a href="https://github.com/Sulton88Mehron90/travel-tracker" target="_blank" rel="noreferrer">Take a closer look</a>.
   </li>
