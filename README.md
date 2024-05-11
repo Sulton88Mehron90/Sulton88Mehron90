@@ -41,11 +41,11 @@
   </li>
     <li>
     <strong>News Reader</strong>: Stay updated with the happenings around the world.
-    <a href="https://github.com/Sulton88Mehron90/news-reader" target="_blank" rel="noreferrer">Check it out!</a>.
+    <a href="https://github.com/Sulton88Mehron90/news-reader" target="_blank" rel="noreferrer">Check it out!</a>
   </li>
     <li>
     <strong>Rubaiyat</strong>: Get inspired by the profound verses of Omar Khayyam.
-    <a href="https://github.com/Sulton88Mehron90/rubaiyat" target="_blank" rel="noreferrer">Immerse yourself in poetic beauty.</a>.
+    <a href="https://github.com/Sulton88Mehron90/rubaiyat" target="_blank" rel="noreferrer">Immerse yourself in poetic beauty</a>.
   </li>
   <li>
     <strong>Travel Tracker</strong>: A brief portrayal of the travel logging app. 
