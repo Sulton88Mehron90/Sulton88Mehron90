@@ -155,7 +155,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Parvin's Instagram">
 </a>
 
-<a href="https://https://www.facebook.com/parvin.sattorova/" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/parvin.sattorova/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Facebook-1DA1F2?style=flat&logo=Facebook&logoColor=white" alt="Parvin's Facebook">
 </a>
 
