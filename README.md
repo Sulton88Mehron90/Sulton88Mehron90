@@ -127,8 +127,9 @@
 </ul>
 <h4 align="center">Portfolio Showcase</h4>
 <div align="center">
-  <p>My portfolio is currently under development! 🚧</p>
-  <p>While I'm in the process of crafting it, please feel free to explore the projects and collaborations listed above.</p>
+  <p>
+    Check out my <a href="https://portfolio1-swart-six.vercel.app/" target="_blank">portfolio</a> to explore my projects and collaborations.
+  </p>
 </div>
 
 <h3 align="center">Let's Connect! 🌐</h3>
@@ -136,10 +137,10 @@
 <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="Parvin's LinkedIn">
 </a>
-  <a href="https://github.com/Sulton88Mehron90/showcase-project/blob/main/src/Images/ParvinASattorova-Resume-November3-2023(1).pdf" target="_blank" rel="noreferrer">
+  <a href="https://drive.google.com/uc?export=download&id=1EGo1ZMHwB_rivJ2NbyCr0CklSBEWRtAV" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/📄_PDF_Resume-138808?style=flat" alt="Parvin's PDF Resume">
 </a>
-<a href="https://github.com/Sulton88Mehron90/showcase-project/blob/main/src/Images/ParvinASattorova-Resume-November3-2023.docx" target="_blank" rel="noreferrer">
+<a href="https://docs.google.com/document/d/1egLhxEtaT5PdwMK0A4qh9j5EmbBL68fF/export?format=docx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/📄_DOCX_Resume-8E44AD?style=flat" alt="Parvin's DOCX Resume">
 </a>
 <a href="mailto:nanajon66@gmail.com">
@@ -152,6 +153,10 @@
 
 <a href="https://www.instagram.com/sulimesho/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Parvin's Instagram">
+</a>
+
+<a href="https://https://www.facebook.com/parvin.sattorova/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Facebook-1DA1F2?style=flat&logo=Facebook&logoColor=white" alt="Parvin's Facebook">
 </a>
 
 <h4 align="center">🛠️ Languages & Tools 🛠️</h4>
@@ -216,7 +221,7 @@
   <br>
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin.jpg" alt="Parvin's Image" width="120" align="center" style="margin: 20px; border-radius: 50%;">
 </p>
-Embarking on a transformative journey, aspiring to become a Front-end Developer — where art meets algorithms.<br> Committed to sculpting a web space that's visually captivating and functionally seamless.
+Embarking on a transformative journey, aspiring to become a Front-End Developer — where art meets algorithms.<br> Committed to sculpting a web space that's visually captivating and functionally seamless.
 
 <p align="center">
   If you've landed here and decided to delve deeper, you're on a voyage through my digital realm. 🚁 <br>
