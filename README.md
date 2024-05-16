@@ -137,12 +137,13 @@
 <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="Parvin's LinkedIn">
 </a>
-  <a href="https://drive.google.com/uc?export=download&id=1EGo1ZMHwB_rivJ2NbyCr0CklSBEWRtAV" target="_blank" rel="noreferrer">
+<a href="https://drive.google.com/uc?export=download&id=1nH3E5WRQjUsdDzKUsEH5XHHMQwlrQtpM" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/📄_PDF_Resume-138808?style=flat" alt="Parvin's PDF Resume">
 </a>
-<a href="https://docs.google.com/document/d/1egLhxEtaT5PdwMK0A4qh9j5EmbBL68fF/export?format=docx" target="_blank" rel="noreferrer">
+<a href="https://docs.google.com/document/d/1x-aw1oNwc8OdlhFadUd3JvFMhyebqlqM/export?format=docx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/📄_DOCX_Resume-8E44AD?style=flat" alt="Parvin's DOCX Resume">
 </a>
+
 <a href="mailto:nanajon66@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact Me-green?style=flat&logo=microsoft-outlook" alt="Email Badge">
 </a>
