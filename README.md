@@ -25,7 +25,7 @@
   <div style="padding: 5px; background-color: #f2f2f2; border-radius: 4px; margin-bottom: 15px;">
     <span style="background-color: #e0e0e0; padding: 5px 10px; border-radius: 50%; font-size: 24px;">📊</span>
     <i style="color: #0077b6;"><b>Present Endeavor:</b></i> 
-    <a href="https://github.com/Refugee-Aid-Capstone/refugee-aid-fe" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">Refuge</a>
+    <a href="https://github.com/Sulton88Mehron90/gt-map" target="_blank" rel="noreferrer" style="color: #0077b6; text-decoration: underline;">GT Map</a>
   </div>
 </div>
 
