@@ -137,10 +137,10 @@
 <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="Parvin's LinkedIn">
 </a>
-<a href="https://drive.google.com/file/d/1Ky6DN5fq-QXWMcyQJxoiRD5IegKFLcoa/view?usp=drive_link" target="_blank" rel="noopener noreferrer" download>
+<a href="https://drive.google.com/uc?export=download&id=1Ky6DN5fq-QXWMcyQJxoiRD5IegKFLcoa" target="_blank" rel="noopener noreferrer" download>
     <img src="https://img.shields.io/badge/📄_PDF_Resume-138808?style=flat" alt="Parvin's PDF Resume">
 </a>
-<a href="https://docs.google.com/document/d/17_LOEyom4M1bDCU-l8OyQCCTZbrs7O13/edit?usp=sharing&ouid=117951740186844900037&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" download>
+<a href="https://docs.google.com/document/d/17_LOEyom4M1bDCU-l8OyQCCTZbrs7O13/export?format=docx" target="_blank" rel="noopener noreferrer" download>
     <img src="https://img.shields.io/badge/📄_DOCX_Resume-8E44AD?style=flat" alt="Parvin's DOCX Resume">
 </a>
 
